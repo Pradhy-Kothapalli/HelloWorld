@@ -18,6 +18,7 @@ public class CSC340 {
         System.out.println("Hello World");
         int x = 1+1;
         System.out.println(x);
+        System.out.println("Add new line");
     }
     
 }
